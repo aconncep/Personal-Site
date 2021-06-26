@@ -35,6 +35,7 @@ function Header(){
                     <li><NavLink to="/about"><span>About</span></NavLink></li>
                     <li><a href="/files/resume_v2.pdf"><span>Resume</span></a></li>
                     <li><NavLink to="/projects"><span>Projects</span></NavLink></li>
+                    <li><a href="https://blog.austincepalia.com"><span>Project Blog</span></a></li>
                     <li><NavLink to="/courses"><span>Video Courses</span></NavLink></li>
                     <li><NavLink to="/contact"><span>Contact</span></NavLink></li>
                 </ul>
