@@ -3,11 +3,11 @@ import Mock from "../mock";
 const database = {
   information: {
     name: 'Austin Cepalia',
-    aboutContent: "I am a software engineer-in-training and computer science student. I'm most proficient in C# + .NET, but I also love working with languages like Python and C.",
+    aboutContent: "I am a software engineer-in-training and computer science student. I love working with languages like Python, C#, and C.",
     age: 21,
-    language: 'C#, Java, Python, C',
+    language: 'Python, C#, Java, C',
     email: 'austin@austincepalia.com',
-    freelanceStatus: 'Available for co-op position',
+    freelanceStatus: 'Unavailable for co-op/internship position',
     socialLinks: {
       twitter: 'https://twitter.com/aconncep',
       pinterest: '',
